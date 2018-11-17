@@ -1,0 +1,35 @@
+/logs/
+/bin/
+# Maven project
+target/
+
+# Dependency directories
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Bower dependency directory (https://bower.io/)
+# bower_components/
+
+# Compiled JavaScript directories
+src/main/resources/frame/
+src/main/resources/static/views/
+src/main/resources/static/components/
+src/main/resources/static/updcomps/
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Eclipse IDEs
+.settings/
+.classpath
+.project
+
+# Automatically created by OS
+desktop.ini
+Thumbs.db
+.DS_store
